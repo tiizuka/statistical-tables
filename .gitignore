@@ -1,7 +1,7 @@
-.bundle/
-.jekyll-cache/
-_site/
+/public
+resources/
+node_modules/
+package-lock.json
+.hugo_build.lock
 
 .*.sw?
-
-.*_history
